@@ -1,0 +1,10 @@
+# venv ve node_modules disarda birakilmali
+venv/
+frontend/node_modules/
+frontend/dist/
+__pycache__/
+*.pyc
+*.pyo
+.vscode/
+.DS_Store
+Thumbs.db

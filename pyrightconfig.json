@@ -1,0 +1,8 @@
+{
+  "venvPath": "c:\\dev\\Proje",
+  "venv": "venv",
+  "extraPaths": [
+    "c:/dev/Proje/venv/Lib/site-packages",
+    "c:/dev/Proje/backend"
+  ]
+}
